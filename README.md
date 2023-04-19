@@ -1,6 +1,6 @@
-# Machine Learning
-Repository meant for python based machine learning projects.
+# Linear Regression
 
+Using Linear regression to mdoel student grades and predict a student's grade using the student evaluation data set from UCI. 
 Use of:
  - pandas
  - numpy
@@ -9,4 +9,3 @@ Use of:
  
 Included:
  - linear regression model
- - KNN with irregular data (in progress)
