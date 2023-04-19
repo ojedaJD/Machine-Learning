@@ -1,2 +1,12 @@
 # Machine Learning
- Using pythona and TensorFlow for creating machine learning models. 
+Repository meant for python based machine learning projects.
+
+Use of:
+ - pandas
+ - numpy
+ - matplotlib
+ - sklearn
+ 
+Included:
+ - linear regression model
+ - KNN with irregular data (in progress)
